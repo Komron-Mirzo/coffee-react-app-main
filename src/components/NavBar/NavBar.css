@@ -4,6 +4,7 @@
     width: 100%;
     background-color: #1B1E22;
     position: sticky;
+    z-index: 999;
     top: 0;
     box-shadow:
         /* offset-x | offset-y | blur-radius | spread-radius | color */
