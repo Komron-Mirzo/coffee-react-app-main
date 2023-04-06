@@ -1,0 +1,132 @@
+.menu-container {
+    width: 100%;
+    background-color: #090C0F;
+}
+
+.menu-content {
+    max-width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 118px;
+    padding-top: 118px;
+}
+
+.menu-card-parent {
+    display: grid;
+    grid-template-columns: 45% 45%;
+    grid-gap: 65px 95px;
+    padding: 10px;
+}
+
+.menu-card {
+    display: flex;
+    gap: 25px;
+}
+
+.menu-card-content {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.menu-card-img {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.menu-card-img img {
+    width: 160px;
+    height: 160px;
+    border-radius: 8px;
+}
+
+.price-parent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.price-parent span:first-of-type {
+    width: 80%;
+}
+
+
+.price-line {
+    display: inline-block;
+    border: dashed 1px #FFB353;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.price-number {
+    display: inline-block;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 5px;
+    font-family: 'Cinzel Decorative';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFB353;
+}
+
+@media (max-width: 1024px) {
+    .menu-card-parent {
+        grid-gap: 65px 50px;
+    }
+
+    .menu-card-img img {
+        width: 140px;
+        height: 140px;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .menu-card-parent {
+        grid-template-columns: 100%;
+    }
+
+    .menu-card {
+        margin-left: auto;
+        margin-right: auto;
+        min-width: 490px;
+    }
+
+    .menu-card-img img {
+        width: 140px;
+        height: 140px;
+    }
+
+}
+
+@media (max-width: 500px) {
+    .menu-card-parent {
+        grid-template-columns: 100%;
+    }
+
+    .menu-card {
+        display: flex;
+        flex-direction: column;
+        min-width: 300px;
+    }
+
+    .menu-card-img {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .menu-card-content {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .menu-card-content div h1,
+    .menu-card-content div p {
+        text-align: center;
+    }
+
+}

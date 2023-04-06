@@ -1,0 +1,75 @@
+.why-container {
+    width: 100%;
+}
+
+
+.why-content {
+    max-width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 118px;
+    padding-top: 118px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    gap: 65px;
+
+}
+
+.why-img {
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 40%;
+}
+
+.why-img img {
+    height: 624px;
+    width: 100%;
+    border-radius: 3px;
+}
+
+.why-right {
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 60%;
+}
+
+@media (max-width: 1024px) {
+    .why-img img {
+        height: auto;
+
+    }
+
+    .why-content {
+        gap: 40px;
+    }
+
+    .why-img {
+
+        width: 94%;
+    }
+
+    .why-right {
+        width: 94%
+    }
+
+}
+
+@media (max-width: 768px) {
+    .why-content {
+        flex-direction: column;
+        display: flex;
+    }
+
+    .why-img {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .why-right {
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+
+}

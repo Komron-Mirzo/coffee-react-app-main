@@ -1,0 +1,38 @@
+#hero {
+    background: url(./coffee-beans-dark-background1.jpeg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 168px;
+    padding-bottom: 168px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+
+#hero-container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1110px;
+    padding: 10px 400px 10px 10px;
+    ;
+}
+
+
+@media (max-width: 1024px) {
+    #hero-container {
+        padding-right: 30%;
+    }
+}
+
+@media (min-width: 501px) and (max-width: 768px) {
+    #hero-container {
+        padding-right: 10px;
+    }
+
+}
+
+@media (max-width: 500px) {
+    #hero-container {
+        padding-right: 0px;
+    }
+}

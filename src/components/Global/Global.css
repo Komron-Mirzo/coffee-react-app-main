@@ -1,0 +1,29 @@
+.small-title {
+
+    display: flex;
+    margin-bottom: 20px;
+
+}
+
+.small-title span {
+    margin-right: 5px;
+}
+
+.small-title h2 {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.icon-box {
+    display: flex;
+    gap: 23px;
+}
+
+.icon-box-icon {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.icon-box-content {
+    margin-bottom: 19px;
+}

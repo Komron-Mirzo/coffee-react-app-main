@@ -1,0 +1,86 @@
+
+ .slider-content {
+
+    background-color: #000;
+    margin: 10px;
+}
+
+
+.slider-img img {
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -46px;
+}
+
+.slider-content {
+    background: #15171B;
+    box-shadow: 0px 0px 0px 1px rgba(255, 255, 255, 0.25);
+    padding: 80px 30px 40px 30px;
+    text-align: center;
+}
+
+.slider-content img {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    height: 22px;
+    width: auto;
+}
+
+.review-text {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 26px;
+    color: #CECECE;
+    margin-bottom: 20px;
+}
+
+.review-name {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    margin-bottom: 5px;
+}
+
+.review-job {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0.04em;
+    color: #D48521;
+}
+
+.slick-dots li {
+    margin: 0 6px
+}
+
+
+.slick-dots li button:before {
+    opacity: 1;
+    font-size: 15px;
+    color: #D9D9D9;
+}
+
+.slick-dots {
+    bottom: -65px;
+}
+
+.slick-dots li.slick-active button:before {
+    color: #D48521;
+    opacity: 1;
+}
+
+.slick-next:before,
+.slick-prev:before {
+    font-size: 25px;
+}
+
