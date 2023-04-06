@@ -5,6 +5,7 @@ import About from './components/About/About';
 import Menu from './components/Menu/Menu';
 import Why from './components/Why/Why';
 import Review from './components/Review/Review';
+import Stats from './components/Stats/Stats';
 
 function App() {
   return (
@@ -16,6 +17,8 @@ function App() {
       <Menu />
       <Why />
       <Review />
+      <Stats />
+
 
 
 
