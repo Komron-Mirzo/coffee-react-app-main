@@ -1,7 +1,7 @@
-import img1 from '../Review/charlie.jpg';
-import img2 from '../Review/christian.jpg';
-import img3 from '../Review/janko.jpg';
-import img4 from '../Review/julian.jpg';
+import img1 from '../Testimonial/charlie.jpg';
+import img2 from '../Testimonial/christian.jpg';
+import img3 from '../Testimonial/janko.jpg';
+import img4 from '../Testimonial/julian.jpg';
 
 
 const SliderContent = [

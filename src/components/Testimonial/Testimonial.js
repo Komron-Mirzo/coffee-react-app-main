@@ -1,13 +1,13 @@
 import SmallTitle from '../Global/SmallTitle';
 import BigTitle from '../Global/BigTitle';
-import '../Review/Review.css';
-import ReviewSlider from '../Review/Slider';
+import './Testimonial.css';
+import ReviewSlider from './Slider';
 
-function Review() {
+function Testimonial() {
 
     return (
-        <div className="review-container">
-            <div className="review-content" >
+        <div className="testimonial-container">
+            <div className="testimonial-content" >
                 <SmallTitle title="Customer Feedback" fontSz="14px" justifyContent="center" />
                 <BigTitle title="What Our Clients Say" fontSz="40px" margin="0px 0px 57px 0px" textAlign="center" />
                 <ReviewSlider />
@@ -18,4 +18,4 @@ function Review() {
     );
 }
 
-export default Review;
+export default Testimonial;

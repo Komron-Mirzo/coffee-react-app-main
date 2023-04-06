@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import Slider from 'react-slick';
-import SliderContent from '../Review/SliderContent';
-import RatingImg from '../Review/5stars.png';
-import '../Review/Slider.css';
+import SliderContent from './SliderContent';
+import RatingImg from '../Testimonial/5stars.png';
+import './Slider.css';
 
 
 export default class ReviewSlider extends Component {
@@ -54,9 +54,9 @@ export default class ReviewSlider extends Component {
                                 </div>
                                 <div className="slider-content">
                                     <img src={RatingImg} />
-                                    <div className="review-text">{item.text}</div>
-                                    <div className="review-name">{item.name}</div>
-                                    <div className="review-job">{item.job}</div>
+                                    <div className="testimonial-text">{item.text}</div>
+                                    <div className="testimonial-name">{item.name}</div>
+                                    <div className="testimonial-job">{item.job}</div>
                                 </div>
 
 

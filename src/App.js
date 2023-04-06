@@ -4,7 +4,7 @@ import './index.css';
 import About from './components/About/About';
 import Menu from './components/Menu/Menu';
 import Why from './components/Why/Why';
-import Review from './components/Review/Review';
+import Testimonial from './components/Testimonial/Testimonial';
 import Stats from './components/Stats/Stats';
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
       <About />
       <Menu />
       <Why />
-      <Review />
+      <Testimonial />
       <Stats />
 
 

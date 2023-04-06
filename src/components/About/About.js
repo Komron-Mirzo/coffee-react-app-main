@@ -53,7 +53,7 @@ Provider Center" fontSz="40px" margin="0px 0px 20px 0px" />
                                 <Review img={boy} text="Quis autem vel eum iure
 reprehenderit in ealuptate velit esse molestiae"/>
                             </span>
-                            <span className="review-right">
+                            <span className="review-left">
                                 <Review img={girl} text="Sed ut perspiciatis unde omnis iste natus error voluptate accusantium. " />
                             </span>
                         </div>

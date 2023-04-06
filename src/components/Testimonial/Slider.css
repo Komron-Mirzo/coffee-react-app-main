@@ -1,5 +1,4 @@
-
- .slider-content {
+.slider-content {
 
     background-color: #000;
     margin: 10px;
@@ -28,7 +27,7 @@
     width: auto;
 }
 
-.review-text {
+.testimonial-text {
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 300;
@@ -38,7 +37,7 @@
     margin-bottom: 20px;
 }
 
-.review-name {
+.testimonial-name {
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 600;
@@ -49,7 +48,7 @@
     margin-bottom: 5px;
 }
 
-.review-job {
+.testimonial-job {
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
@@ -83,4 +82,3 @@
 .slick-prev:before {
     font-size: 25px;
 }
-
