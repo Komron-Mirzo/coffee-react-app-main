@@ -12,8 +12,6 @@ function Stats() {
                 <StatsCard number={362} fontSz={24} color="#fff" title="Expert Members" content="Sed ut perspiciatis unde" />
                 <StatsCard number={753} fontSz={24} color="#fff" title="Winning Awards" content="Sed ut perspiciatis unde" />
             </div>
-
-
         </div>
 
     );
