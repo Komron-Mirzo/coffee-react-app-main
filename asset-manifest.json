@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.css": "/coffee-react-app-main/static/css/main.76444995.css",
-    "main.js": "/coffee-react-app-main/static/js/main.b10af666.js",
+    "main.css": "/coffee-react-app-main/static/css/main.e2cb36b5.css",
+    "main.js": "/coffee-react-app-main/static/js/main.26f4bcbc.js",
     "static/media/coffee-beans-dark-background1.jpeg": "/coffee-react-app-main/static/media/coffee-beans-dark-background1.a5442f3ee6732070a526.jpeg",
+    "static/media/blog1.jpg": "/coffee-react-app-main/static/media/blog1.cdae01d37adb3452266b.jpg",
     "static/media/never-cof.png": "/coffee-react-app-main/static/media/never-cof.44a5e8cda85a240d4a5b.png",
+    "static/media/blog3.jpg": "/coffee-react-app-main/static/media/blog3.338ebc0053392d957327.jpg",
+    "static/media/blog2.jpg": "/coffee-react-app-main/static/media/blog2.1d8f368acc7246e5ec6b.jpg",
     "static/media/restaurant-menu.jpg": "/coffee-react-app-main/static/media/restaurant-menu.c6c86ab78ac9de66b6c8.jpg",
     "static/media/food-menu.jpg": "/coffee-react-app-main/static/media/food-menu.27ff21764d97924bae55.jpg",
     "static/media/coffee-menu.jpg": "/coffee-react-app-main/static/media/coffee-menu.ebc73ee83bcccb57679d.jpg",
@@ -17,11 +20,11 @@
     "static/media/christian.jpg": "/coffee-react-app-main/static/media/christian.709c10a96238b86af07f.jpg",
     "static/media/girl.jpg": "/coffee-react-app-main/static/media/girl.dd231401532e7b5af83d.jpg",
     "index.html": "/coffee-react-app-main/index.html",
-    "main.76444995.css.map": "/coffee-react-app-main/static/css/main.76444995.css.map",
-    "main.b10af666.js.map": "/coffee-react-app-main/static/js/main.b10af666.js.map"
+    "main.e2cb36b5.css.map": "/coffee-react-app-main/static/css/main.e2cb36b5.css.map",
+    "main.26f4bcbc.js.map": "/coffee-react-app-main/static/js/main.26f4bcbc.js.map"
   },
   "entrypoints": [
-    "static/css/main.76444995.css",
-    "static/js/main.b10af666.js"
+    "static/css/main.e2cb36b5.css",
+    "static/js/main.26f4bcbc.js"
   ]
 }
