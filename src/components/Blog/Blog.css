@@ -29,7 +29,7 @@
 
 .blog-posts {
     display: flex;
-    gap: 25px;
+    gap: 24px;
 }
 
 .blog-card {
