@@ -22,20 +22,23 @@
 .icon-blog-post {
     width: 100%;
     max-width: 20px;
+    max-height: 16px;
     height: 100%;
     display: inline-block;
 }
 
 .blog-posts {
     display: flex;
+    gap: 25px;
 }
 
 .blog-card {
     padding: 21px;
+    height: 235px;
     width: 350px;
     display: flex;
     flex-direction: column;
-    vertical-align: bottom;
+    justify-content: flex-end;
 }
 
 .blog-card>h2 {
