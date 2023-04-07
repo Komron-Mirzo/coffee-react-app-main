@@ -15,7 +15,6 @@ function SmallTitle({ title, fontSz, marginDiv, justifyContent }) {
         fontFamily: "'Open Sans', sans-serif",
         textTransform: 'Uppercase',
         fontWeight: "400",
-
     }
 
     const divSmallTitleStyle = {

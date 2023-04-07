@@ -6,6 +6,7 @@ import Menu from './components/Menu/Menu';
 import Why from './components/Why/Why';
 import Testimonial from './components/Testimonial/Testimonial';
 import Stats from './components/Stats/Stats';
+import Blog from './components/Blog/Blog';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Why />
       <Testimonial />
       <Stats />
+      <Blog />
 
 
 

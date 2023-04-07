@@ -20,6 +20,9 @@ function StatsCard({ number, fontSz, color, margin, title, content }) {
                         start={0}
                         end={number}
                         duration={2}
+                        scrollSpyDelay={0}
+                        enableScrollSpy={true}
+
                     >
                     </CountUp>+</h1>
             </div>
