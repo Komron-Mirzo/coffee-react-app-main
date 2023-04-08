@@ -1,6 +1,5 @@
 .blog-container {
-    padding-top: 90px;
-    padding-bottom: 90px;
+    padding: 90px 10px;
 }
 
 .blog-content {
@@ -35,7 +34,7 @@
 .blog-card {
     padding: 21px;
     height: 235px;
-    width: 350px;
+    max-width: 350px;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -60,4 +59,39 @@
 
 .blog-meta span {
     height: auto;
+}
+
+
+@media (max-width: 918px) {
+
+    .blog-meta {
+        flex-direction: column;
+        gap: 8px
+    }
+
+    .blog-posts {
+        gap: 15px;
+    }
+
+}
+
+@media (max-width: 610px) {
+
+    .blog-posts {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .blog-posts span {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .blog-meta {
+        flex-direction: row;
+    }
+
+    .blog-card>h2 {
+        text-align: center;
+    }
 }

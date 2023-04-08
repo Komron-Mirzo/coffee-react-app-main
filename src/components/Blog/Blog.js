@@ -30,9 +30,9 @@ function Blog() {
                 <div className="blog-posts">
                     <span><BlogCard background={blog1} mainText="SWR React Hooks With Next Increm Ental Static Regeneration" iconCalendar={<CalendarIcon
                     />} textCalendar="March 26, 2022" iconComment={<CommentIcon />} textComment="Comments (0)" /></span>
-                    <span><BlogCard background={blog1} mainText="SWR React Hooks With Next Increm Ental Static Regeneration" iconCalendar={<CalendarIcon
+                    <span><BlogCard background={blog2} mainText="Decisions For Building Flexible Components DevTools Browser" iconCalendar={<CalendarIcon
                     />} textCalendar="March 26, 2022" iconComment={<CommentIcon />} textComment="Comments (0)" /></span>
-                    <span><BlogCard background={blog1} mainText="SWR React Hooks With Next Increm Ental Static Regeneration" iconCalendar={<CalendarIcon
+                    <span><BlogCard background={blog3} mainText="SWR React Hooks With Next Increm Ental Static Regeneration" iconCalendar={<CalendarIcon
                     />} textCalendar="March 26, 2022" iconComment={<CommentIcon />} textComment="Comments (0)" /></span>
 
 
