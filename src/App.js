@@ -7,6 +7,7 @@ import Why from './components/Why/Why';
 import Testimonial from './components/Testimonial/Testimonial';
 import Stats from './components/Stats/Stats';
 import Blog from './components/Blog/Blog';
+import Table from './components/Table/Table';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <Testimonial />
       <Stats />
       <Blog />
+      <Table />
 
 
 
