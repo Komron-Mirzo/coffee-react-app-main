@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/coffee-react-app-main/static/css/main.72a10df8.css",
-    "main.js": "/coffee-react-app-main/static/js/main.8f6a3a29.js",
+    "main.css": "/coffee-react-app-main/static/css/main.383f8efe.css",
+    "main.js": "/coffee-react-app-main/static/js/main.c96cb1c0.js",
     "static/media/coffee-beans-dark-background1.jpeg": "/coffee-react-app-main/static/media/coffee-beans-dark-background1.a5442f3ee6732070a526.jpeg",
     "static/media/blog1.jpg": "/coffee-react-app-main/static/media/blog1.cdae01d37adb3452266b.jpg",
     "static/media/never-cof.png": "/coffee-react-app-main/static/media/never-cof.44a5e8cda85a240d4a5b.png",
@@ -20,11 +20,11 @@
     "static/media/christian.jpg": "/coffee-react-app-main/static/media/christian.709c10a96238b86af07f.jpg",
     "static/media/girl.jpg": "/coffee-react-app-main/static/media/girl.dd231401532e7b5af83d.jpg",
     "index.html": "/coffee-react-app-main/index.html",
-    "main.72a10df8.css.map": "/coffee-react-app-main/static/css/main.72a10df8.css.map",
-    "main.8f6a3a29.js.map": "/coffee-react-app-main/static/js/main.8f6a3a29.js.map"
+    "main.383f8efe.css.map": "/coffee-react-app-main/static/css/main.383f8efe.css.map",
+    "main.c96cb1c0.js.map": "/coffee-react-app-main/static/js/main.c96cb1c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.72a10df8.css",
-    "static/js/main.8f6a3a29.js"
+    "static/css/main.383f8efe.css",
+    "static/js/main.c96cb1c0.js"
   ]
 }
