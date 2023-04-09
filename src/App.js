@@ -8,6 +8,8 @@ import Testimonial from './components/Testimonial/Testimonial';
 import Stats from './components/Stats/Stats';
 import Blog from './components/Blog/Blog';
 import Table from './components/Table/Table';
+import Footer from './components/Footer/Footer';
+
 
 function App() {
   return (
@@ -22,6 +24,7 @@ function App() {
       <Stats />
       <Blog />
       <Table />
+      <Footer />
 
 
 
